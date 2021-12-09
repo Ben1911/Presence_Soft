@@ -1,0 +1,16 @@
+D:\My projets\C#\ManagerPresence\ManagerPresenceGUI\bin\Debug\ManagerPresenceGUI.exe.config
+D:\My projets\C#\ManagerPresence\ManagerPresenceGUI\bin\Debug\ManagerPresenceGUI.exe
+D:\My projets\C#\ManagerPresence\ManagerPresenceGUI\bin\Debug\ManagerPresenceGUI.pdb
+D:\My projets\C#\ManagerPresence\ManagerPresenceGUI\obj\Debug\ManagerPresenceGUI.csprojResolveAssemblyReference.cache
+D:\My projets\C#\ManagerPresence\ManagerPresenceGUI\obj\Debug\ManagerPresenceGUI.Properties.Resources.resources
+D:\My projets\C#\ManagerPresence\ManagerPresenceGUI\obj\Debug\ManagerPresenceGUI.csproj.GenerateResource.Cache
+D:\My projets\C#\ManagerPresence\ManagerPresenceGUI\obj\Debug\ManagerPresenceGUI.exe
+D:\My projets\C#\ManagerPresence\ManagerPresenceGUI\obj\Debug\ManagerPresenceGUI.pdb
+E:\My projets\C#\ManagerPresence\ManagerPresenceGUI\bin\Debug\ManagerPresenceGUI.exe.config
+E:\My projets\C#\ManagerPresence\ManagerPresenceGUI\obj\Debug\ManagerPresenceGUI.exe
+E:\My projets\C#\ManagerPresence\ManagerPresenceGUI\obj\Debug\ManagerPresenceGUI.pdb
+E:\My projets\C#\ManagerPresence\ManagerPresenceGUI\bin\Debug\ManagerPresenceGUI.exe
+E:\My projets\C#\ManagerPresence\ManagerPresenceGUI\bin\Debug\ManagerPresenceGUI.pdb
+E:\My projets\C#\ManagerPresence\ManagerPresenceGUI\obj\Debug\ManagerPresenceGUI.csprojResolveAssemblyReference.cache
+E:\My projets\C#\ManagerPresence\ManagerPresenceGUI\obj\Debug\ManagerPresenceGUI.Properties.Resources.resources
+E:\My projets\C#\ManagerPresence\ManagerPresenceGUI\obj\Debug\ManagerPresenceGUI.csproj.GenerateResource.Cache

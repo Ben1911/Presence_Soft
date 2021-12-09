@@ -1,0 +1,5 @@
+D:\My projets\C#\ManagerPresence\ManagerUtilitiesLib\bin\Debug\ManagerUtilitiesLib.dll
+D:\My projets\C#\ManagerPresence\ManagerUtilitiesLib\bin\Debug\ManagerUtilitiesLib.pdb
+D:\My projets\C#\ManagerPresence\ManagerUtilitiesLib\obj\Debug\ManagerUtilitiesLib.dll
+D:\My projets\C#\ManagerPresence\ManagerUtilitiesLib\obj\Debug\ManagerUtilitiesLib.pdb
+D:\My projets\C#\ManagerPresence\ManagerUtilitiesLib\obj\Debug\ManagerUtilitiesLib.csprojResolveAssemblyReference.cache

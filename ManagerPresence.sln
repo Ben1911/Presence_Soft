@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagerPresenceGUI", "ManagerPresenceGUI\ManagerPresenceGUI.csproj", "{C265EB9F-AFC9-47AF-ABB0-E55EA842CE46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagerConnexion", "ManagerConnexion\ManagerConnexion.csproj", "{58E47E5C-0161-43F2-8216-50FB712A3BC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagerPresenceLib", "ManagerPresenceLib\ManagerPresenceLib.csproj", "{02326B03-1F4C-43E4-8131-C7379C3BC1BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagerUtilitiesLib", "ManagerUtilitiesLib\ManagerUtilitiesLib.csproj", "{A6FB12BA-7CB3-4DF7-906C-6931C01F52C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C265EB9F-AFC9-47AF-ABB0-E55EA842CE46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C265EB9F-AFC9-47AF-ABB0-E55EA842CE46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C265EB9F-AFC9-47AF-ABB0-E55EA842CE46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C265EB9F-AFC9-47AF-ABB0-E55EA842CE46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58E47E5C-0161-43F2-8216-50FB712A3BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E47E5C-0161-43F2-8216-50FB712A3BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E47E5C-0161-43F2-8216-50FB712A3BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E47E5C-0161-43F2-8216-50FB712A3BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02326B03-1F4C-43E4-8131-C7379C3BC1BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02326B03-1F4C-43E4-8131-C7379C3BC1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02326B03-1F4C-43E4-8131-C7379C3BC1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02326B03-1F4C-43E4-8131-C7379C3BC1BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6FB12BA-7CB3-4DF7-906C-6931C01F52C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6FB12BA-7CB3-4DF7-906C-6931C01F52C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6FB12BA-7CB3-4DF7-906C-6931C01F52C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6FB12BA-7CB3-4DF7-906C-6931C01F52C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

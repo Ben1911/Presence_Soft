@@ -1,0 +1,6 @@
+D:\My projets\C#\ManagerPresence\ManagerConnexion\bin\Debug\ManagerConnexion.dll
+D:\My projets\C#\ManagerPresence\ManagerConnexion\bin\Debug\ManagerConnexion.pdb
+D:\My projets\C#\ManagerPresence\ManagerConnexion\bin\Debug\MySql.Data.dll
+D:\My projets\C#\ManagerPresence\ManagerConnexion\obj\Debug\ManagerConnexion.csprojResolveAssemblyReference.cache
+D:\My projets\C#\ManagerPresence\ManagerConnexion\obj\Debug\ManagerConnexion.dll
+D:\My projets\C#\ManagerPresence\ManagerConnexion\obj\Debug\ManagerConnexion.pdb
